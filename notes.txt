@@ -1,0 +1,4 @@
+1. Universal selector(*) has the lowest specificity.
+2. This guy is setting the line-height as '1.8'.
+3. Using this value as img width - (3vw + 3vh) gets the sidebar height responsive along with width responsive.
+4. vmax means 'Viewport-Max'.
